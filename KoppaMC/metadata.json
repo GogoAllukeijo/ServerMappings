@@ -1,0 +1,32 @@
+{
+    "id": "koppamc",
+    "name": "KoppaMC",
+    "website": "https://koti.koppamc.fi/",
+    "description": "KoppaMC on Suomalainen Minecraft-palvelin!",
+    "addresses": [
+        "koppamc.fi"
+    ],
+    "primaryAddress": "koppamc.fi",
+    "primaryColor": "#5CD64D",
+    "secondaryColor": "#415CD6",
+    "minecraftVersions": [
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.21",
+    "primaryLanguage": "en",
+    "languages": [
+        "en"
+    ],
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Minigames",
+        "Pvp"
+        "Survival"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/2zhtN4hFWU"
+    }
+}
